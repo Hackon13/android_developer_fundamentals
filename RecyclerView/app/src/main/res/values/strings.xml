@@ -1,0 +1,24 @@
+<resources>
+    <string-array name="pet_name">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Rat</item>
+        <item>Rabbit</item>
+        <item>Pegion</item>
+        <item>Snake</item>
+        <item>Elephant</item>
+        <item>Cow</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Cat is cute</item>
+        <item>Dog is good</item>
+        <item>Rat eat cheese </item>
+        <item>Rabbit is very cute</item>
+        <item>Pegion can fly</item>
+        <item>Snake is scary</item>
+        <item>Elephant are big</item>
+        <item>Cow give milk</item>
+
+    </string-array>
+</resources>
